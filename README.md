@@ -1,18 +1,18 @@
-# Proceso de Configuración - Benjamin Zingoni
+# Environment Configuration Report - Benjamin Zingoni
 
-## Herramientas Instaladas
-* **Cursor IDE:** Entorno de desarrollo principal.
-* **Claude 3.5 Sonnet:** Activado en los ajustes de Cursor para cumplir con el requisito de Claude Code.
-* **Codex (Indexing):** Habilitado mediante Codebase Indexing para gestión de contexto.
+## Tools Installed
+* **Cursor IDE:** Installed and configured as the primary development environment.
+* **Claude 3.5 Sonnet:** Enabled within Cursor settings to fulfill the Claude Code requirement.
+* **Codex (Indexing):** Codebase Indexing enabled for advanced context management.
 
-## Pasos Completados
-1. Instalación y registro en Cursor IDE.
-2. Configuración de modelos de IA y protocolos de contexto (Claude y Codex).
-3. Creación y vinculación de repositorio público en GitHub.
-4. Documentación técnica del proceso en este archivo.
+## Steps Completed
+1. Installation and registration in Cursor IDE.
+2. Configuration of AI models and context protocols (Claude and Codex).
+3. Creation and linking of a public GitHub repository.
+4. Technical documentation of the process in this README.md file.
 
-## Problemas Encontrados y Soluciones
-* **Problema:** Error de sintaxis en la terminal al intentar vincular el repositorio remoto debido al uso de caracteres especiales de las instrucciones.
-* **Solución:** Se reinicializó el repositorio local y se ingresó la URL limpia de GitHub mediante comandos directos.
-* **Problema:** Localización de las herramientas Claude Code y Codex como extensiones.
-* **Solución:** Se identificó que operan de forma nativa en Cursor y se configuraron desde el panel de ajustes de modelos e indexación.
+## Challenges and Solutions
+* **Issue:** Terminal syntax error when trying to link the remote repository due to special characters in the instructions.
+* **Solution:** Re-initialized the repository and entered the clean GitHub URL using direct terminal commands.
+* **Issue:** Locating Claude Code and Codex as traditional extensions.
+* **Solution:** Identified that they operate natively within Cursor and configured them through the models and indexing settings panel.
